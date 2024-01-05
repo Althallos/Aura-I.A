@@ -5,7 +5,9 @@
  criada para realizar pequenas tarefas como:
 
 **Pesquisar informações pelo Wikipedia**
+
 **Executar vídeos e músicas do YouTube**
+
 **Baixar Videos e Músicas do YouTube**
 
 # Bibliotecas Usadas:
