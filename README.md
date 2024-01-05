@@ -4,11 +4,11 @@
  Aura é uma pequena Inteligência Artificial (IA)
  criada para realizar pequenas tarefas como:
 
-___ Pesquisar informações pelo Wikipedia ___
+## Pesquisar informações pelo Wikipedia 
 
-___ Executar vídeos e músicas do YouTube ___
+## Executar vídeos e músicas do YouTube 
 
-___ Baixar Videos e Músicas do YouTube ___
+## Baixar Videos e Músicas do YouTube 
 
 # Bibliotecas Usadas:
 pyttsx3
