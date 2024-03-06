@@ -1,7 +1,7 @@
-# Aura-I.A
- Aura - Inteligência Artificial (IA)
+# Aura-V.A
+ Aura - Assistente Virtual (VA)
 
- Aura é uma pequena Inteligência Artificial (IA)
+ Aura é uma pequena Assistente Virtual (VA)
  criada para realizar pequenas tarefas como:
 
 - Pesquisar informações pelo Wikipedia***
